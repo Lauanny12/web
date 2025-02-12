@@ -7,7 +7,7 @@
     <title>Currículo</title>
 </head>
 <body>
-    <h1>Fulano de Tal</h1>
+    <h1>Lauanny</h1>
     <section>
         <h2>Contato:</h2>
         <strong>E-mail:</strong>lauannyreis1501@gmail.com <br>
