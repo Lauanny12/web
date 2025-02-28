@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -7,27 +6,59 @@
     <title>Currículo</title>
 </head>
 <body>
-    <h1>Lauanny</h1>
-    <section>
+    <center>
+    <img
+    src="c:\Users\202310210022\Downloads\WhatsApp Image 2025-01-18 at 21.53.07.jpeg"
+      alt="lalau"
+      width="200"
+      height="250" /> <h1>Lauanny Reis Silva </h1></center>
+       
+
+projeto_<a href="file:///C:/Users/202310210022/.vscode/Projetos.html">projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+        projeto_<a href="file:///C:/Users/202310210022/.vscode/documentos.html">documento</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+        projeto_<a href="file:///C:/Users/202310210022/.vscode/outro.html">outros</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+        projeto_<a href="file:///C:/Users/202310210022/.vscode/FORMULARIO.html">formulario</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
+      </p>
+      
+    
+<section>
         <h2>Contato:</h2>
-        <strong>E-mail:</strong>lauannyreis1501@gmail.com <br>
-        <strong>Telefone:</strong> +55 (63) 99599807 <br>
-        <strong>GitHub:</strong>github.com/Lauanny12/web/edit/main/README.md
+        <strong>E-mail:</strong> lauannyy.silva2@estudante.ifto.edu.br<br>
+        <strong>Telefone:</strong> +55 (63) 99599807<br>
+        <strong>GitHub:</strong>https://github.com/Lauanny12/web/edit/main/README.md<br>
+    </section>
+      <hr>                           
+          <article>
+            <p>Olá, busco <em>oportunidades de estágio na área de desenvolvimento web</em> para aplicar e expandir meus conhecimentos técnicos e habilidades de programação.</p>
+        </article>
+        
+<section>
+     <h2>Tecnologias Web:</h2>
+         <ol>
+            <li>Linguagens: HTML e CSS</li>
+            <li>Frameworks Front-End: React.js, Vue.js</li>
+            <li>Ferramenta de Controle de Versão: GitHub</li>
+            <li>Editores de texto: Visual Studio Code</li>
+        </ol>
 </section>
-<hr>
-
-<p>Olá, busco oportunidades de enigo na área de desenvolendo wa para aplicar expandir mentalidade de programação.</p>
-
-<h1>Tecnologia Web </h1>
-      <dl>
-        <strong>1.linguagen: </strong>HTML <br>
-        <strong>2.Frameworks Front-End: </strong> React.js, Vuejs <br>
-        <strong>3.Ferramenta de Controle de Versão: </strong> Gitch <br>
-      </dl>
-<h2>Idiomas</h2>
-<li>Portugues(nativo)</li>
-  
-<h3>Projeto</h3>
-      <dl>
-      <dt
-      </dl>
+      
+<section>
+    <h2>Idiomas</h2>
+    <ul>
+             <li>Português (nativo)</li>
+             <li>Inglês (intermediário)</li>
+            </ul>
+        </section>
+        
+<section>
+            <h2>Projetos:</h2>
+            <dl>
+                <dt>E-commerce Website (Projeto Acadêmico)</dt>
+                <dd>Desenvolvimento completo de um site de comércio eletrônico utilizando HTML e CSS. Implementação de funcionalidades como autenticação de usuário e carrinho de compras.</dd>
+            <dt>Blog Pessoal (Projeto Pessoal)</dt>
+            <dd>Criação de um blog estático utilizando HTML e CSS.</dd>
+            </dl>
+        </section>
+     <section>
+            <h2>Experiência Profissional</h2>
+            
