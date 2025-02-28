@@ -3,16 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Currículo</title>
+    Currículo
 </head>
 <body>
-    <center>
+    
+<center>
     <img
     src="c:\Users\202310210022\Downloads\WhatsApp Image 2025-01-18 at 21.53.07.jpeg"
       alt="lalau"
       width="200"
       height="250" /> <h1>Lauanny Reis Silva </h1></center>
-       
 
 projeto_<a href="file:///C:/Users/202310210022/.vscode/Projetos.html">projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         projeto_<a href="file:///C:/Users/202310210022/.vscode/documentos.html">documento</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
@@ -61,4 +61,22 @@ projeto_<a href="file:///C:/Users/202310210022/.vscode/Projetos.html">projeto</a
         </section>
      <section>
             <h2>Experiência Profissional</h2>
+                    <table border="1">
+                <tr>
+                    <td>Empresa</td>
+                    <td> Cargo </td>
+                    <td>Tempo de Experiência</td>
+                </tr>
+                <tr>
+                    <td>Empresa A</td>
+                    <td>Estagiario</td>
+                    <td>6 meses</td>
+                </tr>
+                <tr>
+                    <td>Empresa B</td>
+                    <td>Programador Junior</td>
+                    <td>6 meses</td>
+                </tr>
+            </table>
+                  
             
