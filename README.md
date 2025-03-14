@@ -13,15 +13,14 @@
       width="200"
       height="250" /> <h1>Lauanny Reis Silva </h1></center>
         
-     <p> 
+<p> 
     <img width="70" height="30"src="c:\Users\202310210022\Downloads\artworks-000201170675-qe8yrv-t500x500.jpg"/>projeto_<a href="file:///C:/Users/202310210022/.vscode/Projetos.html">projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="70" height="30"src="c:\Users\202310210022\Downloads\artworks-000201170675-qe8yrv-t500x500.jpg"/>projeto_<a href="file:///C:/Users/202310210022/.vscode/documentos.html">documento</a>&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="70" height="30"src="c:\Users\202310210022\Downloads\artworks-000201170675-qe8yrv-t500x500.jpg"/>projeto_<a href="file:///C:/Users/202310210022/.vscode/outro.html">outros</a>&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="70" height="30"src="c:\Users\202310210022\Downloads\artworks-000201170675-qe8yrv-t500x500.jpg"/>projeto_<a href="file:///C:/Users/202310210022/.vscode/FORMULARIO.html">formulario</a>&nbsp;&nbsp;&nbsp;&nbsp;
       </p>
       
-    
-    <section>
+<section>
         <h2>Contato:</h2>
         <strong>E-mail:</strong> lauannyy.silva2@estudante.ifto.edu.br<br>
         <strong>Telefone:</strong> +55 (63) 99599807<br>
@@ -89,51 +88,51 @@
             </head>
             <body>
               
-            <a href="curriculo 2.html">Voltar para o Currículo</a>
+<a href="curriculo 2.html">Voltar para o Currículo</a>
             </body>
             </html>
             
             
-            forms: <form action="/enviar" method="POST">
+forms: <form action="/enviar" method="POST">
             
-              <label for="nome">Nome:</label>
+<label for="nome">Nome:</label>
               <input type="text" id="nome" name="nome" required><br><br>
             
             
              
-              <label for="email">E-mail:</label>
+<label for="email">E-mail:</label>
               <input type="email" id="email" name="email" required><br><br>
             
             
              
-              <label for="telefone">Telefone:</label>
+<label for="telefone">Telefone:</label>
               <input type="tel" id="telefone" name="telefone"><br><br>
             
             
              
-              <label for="mensagem">Mensagem:</label><br>
+<label for="mensagem">Mensagem:</label><br>
               <textarea id="mensagem" name="mensagem" rows="4" cols="50" required></textarea><br><br>
             
             
              
-              <button type="submit">Enviar</button>
+<button type="submit">Enviar</button>
             </form>
             
             
-            Projetos
+Projetos
             <a
               href="paginateste.html"
               title="Projetos">
               Projetos</a>.
             
             
-            Projetos
+Projetos
             <a
               href="Vendadeimóveis.html"
               title="Projetos">
               Outros</a>.
             
-            Projetos
+Projetos
             <a
               href="Documentos.html"
               title="Projetos">
@@ -142,16 +141,16 @@
             
             
             
-            Projetos
+Projetos
             <a
               href="Formulário.html"
               title="Projetos">
               Formulátio</a>.
             
             
-            icones: <td><img  width="70"  height="30"  src='C:\Users\202310210004\Downloads\Projeto currículo\Imagens\icone.webp' /></td>
+icones: <td><img  width="70"  height="30"  src='C:\Users\202310210004\Downloads\Projeto currículo\Imagens\icone.webp' /></td>
             
-            forms:<!doctype html>
+forms:<!doctype html>
             <html lang="pt-br">
             <head>
             <meta charset="UTF-8">
@@ -161,28 +160,28 @@
             <body>
             
             
-            <h2>Formulário de Contato</h2>
+<h2>Formulário de Contato</h2>
             
             
-            <form action="#" method="post">
+<form action="#" method="post">
                
                
-                <fieldset>
+<fieldset>
                     <legend>Informações Pessoais</legend>
                    
-                    <label for="nome">Nome:</label>
+<label for="nome">Nome:</label>
                     <input type="text" id="nome" name="nome" required><br><br>
                    
-                    <label for="nascimento">Data de Nascimento:</label>
+<label for="nascimento">Data de Nascimento:</label>
                     <input type="date" id="nascimento" name="nascimento" required><br><br>
                    
-                    <label for="email">E-mail:</label>
+<label for="email">E-mail:</label>
                     <input type="email" id="email" name="email" required><br><br>
                    
-                    <label for="senha">Senha:</label>
+<label for="senha">Senha:</label>
                     <input type="password" id="senha" name="senha" required><br><br>
                    
-                    <label for="genero">Gênero:</label><br>
+<label for="genero">Gênero:</label><br>
                     <input type="radio" id="masculino" name="genero" value="Masculino">
                     <label for="masculino">Masculino</label><br>
                     <input type="radio" id="feminino" name="genero" value="Feminino">
@@ -191,41 +190,41 @@
             
             
                
-                <fieldset>
+<fieldset>
                     <legend>Mensagem</legend>
                    
-                    <label for="motivo">Motivo do Contato:</label><br>
+<label for="motivo">Motivo do Contato:</label><br>
                     <select id="motivo" name="motivo">
                         <option value="dúvida">Dúvida</option>
                         <option value="informacao">Informação</option>
                         <option value="outro">Outro</option>
                     </select><br><br>
                    
-                    <label for="mensagem">Sua Mensagem:</label><br>
+<label for="mensagem">Sua Mensagem:</label><br>
                     <textarea id="mensagem" name="mensagem" rows="4" cols="50" required></textarea><br><br>
                    
-                    <label for="arquivo">Anexo:</label>
+<label for="arquivo">Anexo:</label>
                     <input type="file" id="arquivo" name="arquivo"><br><br>
             
             
-                    <input type="checkbox" id="notificacoes" name="notificacoes">
+<input type="checkbox" id="notificacoes" name="notificacoes">
                     <label for="notificacoes">Aceito receber notificações</label><br><br>
                 </fieldset>
             
             
                 <!-- Botões -->
-                <input type="submit" value="Enviar">
-                <input type="reset" value="Limpar">
+<input type="submit" value="Enviar">
+ <input type="reset" value="Limpar">
             
             
-            </form>
+</form>
             
             
-            </body>
+</body>
             </html>
             
             
-            table: <meta charset="UTF-8">
+table: <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>Experiências Profissionais</title>
             <style>
