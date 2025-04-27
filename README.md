@@ -45,7 +45,6 @@
             <h2>Idiomas</h2>
             <ul>
                 <li>Português (nativo)</li>
-                <li>Inglês (intermediário)</li>
             </ul>
         </section>
 <hr>       
